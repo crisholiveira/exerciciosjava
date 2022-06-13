@@ -8,6 +8,6 @@ public abstract class Mamifero extends Animal {
 
 	}
 	
-	public abstract mamar();
+	
 
 }
